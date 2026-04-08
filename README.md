@@ -49,9 +49,9 @@ streamlit run app/app.py
 
 ---
 
-## 🌐 Live Demo
 
-(Add after deployment)
+## 🔴 Live Demo
+👉 [Click here to view the app](https://yourapp.streamlit.app)
 
 ---
 
