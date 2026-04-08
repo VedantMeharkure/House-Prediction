@@ -51,7 +51,7 @@ streamlit run app/app.py
 
 
 ## 🔴 Live Demo
-👉 [Click here to view the app](https://yourapp.streamlit.app)
+👉 [Click here to view the app](https://house-prediction-swgirvzkps2fm5grfxdwej.streamlit.app)
 
 ---
 
